@@ -1,0 +1,53 @@
+/* PlayerProfile.css */
+
+/* Add your custom styles here */
+.player-profile-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #1e2036;
+    border: 1px solid #0a0101;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+ 
+  .player-profile-container h2 {
+    color: #007bff;
+  }
+  
+  .player-profile-container h4 {
+    color: #333;
+  }
+  
+  .player-profile-container p {
+    color: #555;
+  }
+  
+  .player-profile-container ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .player-profile-container ul li {
+    margin-bottom: 5px;
+  }
+  
+  .player-profile-container img,
+  .player-profile-container video {
+    max-width: 100%;
+    height: auto;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    margin: 5px;
+  }
+  
+  .player-profile-container a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .player-profile-container a:hover {
+    text-decoration: underline;
+  }
+  
+  
